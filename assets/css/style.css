@@ -23,20 +23,20 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/*div is chaged to nav */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/*div is chaged to nav */
+.header nav ul {
     list-style-type: none;
 }
-
-.header div ul li {
+/*div is chaged to nav */
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
