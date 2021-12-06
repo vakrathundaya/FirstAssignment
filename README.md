@@ -18,6 +18,7 @@ Tasks completed
 * A descriptive title was added
 * links all function correctly.
 * CSS file is properly commented
+
 Links
 ------
 
