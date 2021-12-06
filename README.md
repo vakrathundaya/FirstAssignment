@@ -1,4 +1,4 @@
-# Horiseon code refactor
+# Horiseon-code-refactor
 
 Description
 -----------
@@ -13,11 +13,11 @@ Tasks completed
 * HTML elements were replaced with semantic HTML elements.
 * Alt text was added to images.
 * Explanatory comments were provided in the HTML document.
+* CSS selectors and properties are consolidated and organized to follow semantic structure.
 * CSS was reorganized to follow a logical structure 
-    * some elements are renamed with semantic elements.
-    * Comments added to describe each modification.
- * A descriptive title was added
-
+* A descriptive title was added
+* links all function correctly.
+* CSS file is properly commented
 Links
 ------
 
