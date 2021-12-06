@@ -13,9 +13,9 @@ Tasks completed
 * HTML elements were replaced with semantic HTML elements.
 * Alt text was added to images.
 * Explanatory comments were provided in the HTML document.
-* CSS was reorganized to follow a logical structure --
-    Classes and elements were separated, then ordered alphabetically within each group
-    Comments added to delineate each separation.
+* CSS was reorganized to follow a logical structure 
+    * some elements are renamed with semantic elements.
+    * Comments added to describe each separation.
  * A descriptive title was added
 
 Links
