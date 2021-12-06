@@ -9,16 +9,25 @@ This project is a code refactor for the Horiseon website homepage. The purposes 
 
 Tasks completed
 ---------------
-Redundant classes were consolidated.
-HTML elements were replaced with semantic HTML elements.
-Alt text was added to images.
-Explanatory comments were provided in the HTML document.
-CSS was reorganized to follow a logical structure
+* Redundant classes were consolidated.
+* HTML elements were replaced with semantic HTML elements.
+* Alt text was added to images.
+* Explanatory comments were provided in the HTML document.
+* CSS was reorganized to follow a logical structure --
     Classes and elements were separated, then ordered alphabetically within each group
     Comments added to delineate each separation.
- A descriptive title was added
+ * A descriptive title was added
 
+Links
+------
 
+Link to the deployed website
+
+https://vakrathundaya.github.io/FirstHomework/
+
+Link to the code repository
+
+https://github.com/vakrathundaya/FirstHomework
 
 Installation
 ------------
