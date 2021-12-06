@@ -4,11 +4,6 @@
     padding: 0;
     margin: 0;
 }
-/* Element Selectors select all of that element type */
-/* Uses predefined colors to define background color */
-body {
-    background-color: #d9dcd6;
-}
 
 .header {
     /* Sets padding on all sides to 20px */
@@ -46,6 +41,18 @@ body {
     margin-left: 25px;
 }
 
+/* Element Selectors select all of that element type */
+/* Uses predefined colors to define background color */
+body {
+    background-color: #d9dcd6;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 a {
     /* Uses hex codes to define color */
     color: #ffffff;
@@ -75,11 +82,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 /* Class Selectors select all elements with that class */
 .benefits {

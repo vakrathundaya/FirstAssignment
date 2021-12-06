@@ -15,7 +15,7 @@ Tasks completed
 * Explanatory comments were provided in the HTML document.
 * CSS was reorganized to follow a logical structure 
     * some elements are renamed with semantic elements.
-    * Comments added to describe each separation.
+    * Comments added to describe each modification.
  * A descriptive title was added
 
 Links
