@@ -1,11 +1,12 @@
-# FirstHomewor
-
-
+# Horiseon
 
 Description
 -----------
 
 This project is a code refactor for the Horiseon website homepage. The purposes of this refactoring is to make the previous code more efficient, comprehensible and accessible. This refactoring should also result in improved search engine optimization. The modification does not change the displayed styling of the page, only the underlying code.
+
+
+![Horiseon](https://user-images.githubusercontent.com/94205464/144786262-2f43a48b-1c84-429b-9324-552d8fcd4760.jpeg)
 
 Tasks completed
 ---------------
