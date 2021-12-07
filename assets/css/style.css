@@ -5,19 +5,21 @@
     margin: 0;
 }
  
-/* Element Selectors select all of that element type */
-/* Uses predefined colors to define background color */
-body { background-color: #d9dcd6;}
+/* Element Selectors select all of that element type */  
+ body { background-color: #d9dcd6;}
 
-.header{
+ /*Applies styles for the h1 and navigation links on top */
+ .header{
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
+/*Applies style for the most important heading */
 .header h1 {display: inline-block; font-size: 48px;}
 
+/*Applies styles for span element */
 .header h1 .seo {color: #d9dcd6;}
 
 
@@ -58,7 +60,7 @@ p { font-size: 16px; }
 
 .float-right {float: right; margin-left: 25px;}
 
-/* Applies stlyes for the sections in main */
+/* Applies stlyes for the sections in main element*/
 .content {
     width: 75%;
     display: inline-block;
@@ -82,7 +84,7 @@ p { font-size: 16px; }
 .benefit-brand,
 .benefit-cost { margin-bottom: 32px; color: #ffffff;}
 
-/* Applies styles for the h3 tags in aside elemnets */
+/* Applies styles for the h3 tags in aside elemnent */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {margin-bottom: 10px; text-align: center;}
