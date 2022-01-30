@@ -24,11 +24,11 @@ Links
 
 Link to the deployed website
 
-https://vakrathundaya.github.io/FirstHomework/
+https://vakrathundaya.github.io/FirstAssignment/
 
 Link to the code repository
 
-https://github.com/vakrathundaya/FirstHomework
+https://github.com/vakrathundaya/FirstAssignment
 
 Installation
 ------------
